@@ -1,0 +1,828 @@
+{
+    "data": {
+      "allPeople": {
+        "people": [
+          {
+            "name": "Luke Skywalker",
+            "hairColor": "blond",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "C-3PO",
+            "hairColor": "n/a",
+            "skinColor": "gold",
+            "eyeColor": "yellow",
+            "gender": "n/a",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "R2-D2",
+            "hairColor": "n/a",
+            "skinColor": "white, blue",
+            "eyeColor": "red",
+            "gender": "n/a",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Darth Vader",
+            "hairColor": "none",
+            "skinColor": "white",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Leia Organa",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "female",
+            "homeworld": {
+              "name": "Alderaan"
+            }
+          },
+          {
+            "name": "Owen Lars",
+            "hairColor": "brown, grey",
+            "skinColor": "light",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Beru Whitesun lars",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "R5-D4",
+            "hairColor": "n/a",
+            "skinColor": "white, red",
+            "eyeColor": "red",
+            "gender": "n/a",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Biggs Darklighter",
+            "hairColor": "black",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Obi-Wan Kenobi",
+            "hairColor": "auburn, white",
+            "skinColor": "fair",
+            "eyeColor": "blue-gray",
+            "gender": "male",
+            "homeworld": {
+              "name": "Stewjon"
+            }
+          },
+          {
+            "name": "Anakin Skywalker",
+            "hairColor": "blond",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Wilhuff Tarkin",
+            "hairColor": "auburn, grey",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Eriadu"
+            }
+          },
+          {
+            "name": "Chewbacca",
+            "hairColor": "brown",
+            "skinColor": "unknown",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Kashyyyk"
+            }
+          },
+          {
+            "name": "Han Solo",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Corellia"
+            }
+          },
+          {
+            "name": "Greedo",
+            "hairColor": "n/a",
+            "skinColor": "green",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Rodia"
+            }
+          },
+          {
+            "name": "Jabba Desilijic Tiure",
+            "hairColor": "n/a",
+            "skinColor": "green-tan, brown",
+            "eyeColor": "orange",
+            "gender": "hermaphrodite",
+            "homeworld": {
+              "name": "Nal Hutta"
+            }
+          },
+          {
+            "name": "Wedge Antilles",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "hazel",
+            "gender": "male",
+            "homeworld": {
+              "name": "Corellia"
+            }
+          },
+          {
+            "name": "Jek Tono Porkins",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Bestine IV"
+            }
+          },
+          {
+            "name": "Yoda",
+            "hairColor": "white",
+            "skinColor": "green",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "unknown"
+            }
+          },
+          {
+            "name": "Palpatine",
+            "hairColor": "grey",
+            "skinColor": "pale",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Boba Fett",
+            "hairColor": "black",
+            "skinColor": "fair",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Kamino"
+            }
+          },
+          {
+            "name": "IG-88",
+            "hairColor": "none",
+            "skinColor": "metal",
+            "eyeColor": "red",
+            "gender": "none",
+            "homeworld": {
+              "name": "unknown"
+            }
+          },
+          {
+            "name": "Bossk",
+            "hairColor": "none",
+            "skinColor": "green",
+            "eyeColor": "red",
+            "gender": "male",
+            "homeworld": {
+              "name": "Trandosha"
+            }
+          },
+          {
+            "name": "Lando Calrissian",
+            "hairColor": "black",
+            "skinColor": "dark",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Socorro"
+            }
+          },
+          {
+            "name": "Lobot",
+            "hairColor": "none",
+            "skinColor": "light",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Bespin"
+            }
+          },
+          {
+            "name": "Ackbar",
+            "hairColor": "none",
+            "skinColor": "brown mottle",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Mon Cala"
+            }
+          },
+          {
+            "name": "Mon Mothma",
+            "hairColor": "auburn",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Chandrila"
+            }
+          },
+          {
+            "name": "Arvel Crynyd",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "unknown"
+            }
+          },
+          {
+            "name": "Wicket Systri Warrick",
+            "hairColor": "brown",
+            "skinColor": "brown",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Endor"
+            }
+          },
+          {
+            "name": "Nien Nunb",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Sullust"
+            }
+          },
+          {
+            "name": "Qui-Gon Jinn",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "unknown"
+            }
+          },
+          {
+            "name": "Nute Gunray",
+            "hairColor": "none",
+            "skinColor": "mottled green",
+            "eyeColor": "red",
+            "gender": "male",
+            "homeworld": {
+              "name": "Cato Neimoidia"
+            }
+          },
+          {
+            "name": "Finis Valorum",
+            "hairColor": "blond",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Coruscant"
+            }
+          },
+          {
+            "name": "Padmé Amidala",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "female",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Jar Jar Binks",
+            "hairColor": "none",
+            "skinColor": "orange",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Roos Tarpals",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Rugor Nass",
+            "hairColor": "none",
+            "skinColor": "green",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Ric Olié",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Watto",
+            "hairColor": "black",
+            "skinColor": "blue, grey",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Toydaria"
+            }
+          },
+          {
+            "name": "Sebulba",
+            "hairColor": "none",
+            "skinColor": "grey, red",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Malastare"
+            }
+          },
+          {
+            "name": "Quarsh Panaka",
+            "hairColor": "black",
+            "skinColor": "dark",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Shmi Skywalker",
+            "hairColor": "black",
+            "skinColor": "fair",
+            "eyeColor": "brown",
+            "gender": "female",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Darth Maul",
+            "hairColor": "none",
+            "skinColor": "red",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Dathomir"
+            }
+          },
+          {
+            "name": "Bib Fortuna",
+            "hairColor": "none",
+            "skinColor": "pale",
+            "eyeColor": "pink",
+            "gender": "male",
+            "homeworld": {
+              "name": "Ryloth"
+            }
+          },
+          {
+            "name": "Ayla Secura",
+            "hairColor": "none",
+            "skinColor": "blue",
+            "eyeColor": "hazel",
+            "gender": "female",
+            "homeworld": {
+              "name": "Ryloth"
+            }
+          },
+          {
+            "name": "Ratts Tyerel",
+            "hairColor": "none",
+            "skinColor": "grey, blue",
+            "eyeColor": "unknown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Aleen Minor"
+            }
+          },
+          {
+            "name": "Dud Bolt",
+            "hairColor": "none",
+            "skinColor": "blue, grey",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Vulpter"
+            }
+          },
+          {
+            "name": "Gasgano",
+            "hairColor": "none",
+            "skinColor": "white, blue",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Troiken"
+            }
+          },
+          {
+            "name": "Ben Quadinaros",
+            "hairColor": "none",
+            "skinColor": "grey, green, yellow",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tund"
+            }
+          },
+          {
+            "name": "Mace Windu",
+            "hairColor": "none",
+            "skinColor": "dark",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Haruun Kal"
+            }
+          },
+          {
+            "name": "Ki-Adi-Mundi",
+            "hairColor": "white",
+            "skinColor": "pale",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Cerea"
+            }
+          },
+          {
+            "name": "Kit Fisto",
+            "hairColor": "none",
+            "skinColor": "green",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Glee Anselm"
+            }
+          },
+          {
+            "name": "Eeth Koth",
+            "hairColor": "black",
+            "skinColor": "brown",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Iridonia"
+            }
+          },
+          {
+            "name": "Adi Gallia",
+            "hairColor": "none",
+            "skinColor": "dark",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Coruscant"
+            }
+          },
+          {
+            "name": "Saesee Tiin",
+            "hairColor": "none",
+            "skinColor": "pale",
+            "eyeColor": "orange",
+            "gender": "male",
+            "homeworld": {
+              "name": "Iktotch"
+            }
+          },
+          {
+            "name": "Yarael Poof",
+            "hairColor": "none",
+            "skinColor": "white",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Quermia"
+            }
+          },
+          {
+            "name": "Plo Koon",
+            "hairColor": "none",
+            "skinColor": "orange",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Dorin"
+            }
+          },
+          {
+            "name": "Mas Amedda",
+            "hairColor": "none",
+            "skinColor": "blue",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Champala"
+            }
+          },
+          {
+            "name": "Gregar Typho",
+            "hairColor": "black",
+            "skinColor": "dark",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Cordé",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "female",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Cliegg Lars",
+            "hairColor": "brown",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Tatooine"
+            }
+          },
+          {
+            "name": "Poggle the Lesser",
+            "hairColor": "none",
+            "skinColor": "green",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Geonosis"
+            }
+          },
+          {
+            "name": "Luminara Unduli",
+            "hairColor": "black",
+            "skinColor": "yellow",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Mirial"
+            }
+          },
+          {
+            "name": "Barriss Offee",
+            "hairColor": "black",
+            "skinColor": "yellow",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Mirial"
+            }
+          },
+          {
+            "name": "Dormé",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "female",
+            "homeworld": {
+              "name": "Naboo"
+            }
+          },
+          {
+            "name": "Dooku",
+            "hairColor": "white",
+            "skinColor": "fair",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Serenno"
+            }
+          },
+          {
+            "name": "Bail Prestor Organa",
+            "hairColor": "black",
+            "skinColor": "tan",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Alderaan"
+            }
+          },
+          {
+            "name": "Jango Fett",
+            "hairColor": "black",
+            "skinColor": "tan",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Concord Dawn"
+            }
+          },
+          {
+            "name": "Zam Wesell",
+            "hairColor": "blonde",
+            "skinColor": "fair, green, yellow",
+            "eyeColor": "yellow",
+            "gender": "female",
+            "homeworld": {
+              "name": "Zolan"
+            }
+          },
+          {
+            "name": "Dexter Jettster",
+            "hairColor": "none",
+            "skinColor": "brown",
+            "eyeColor": "yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Ojom"
+            }
+          },
+          {
+            "name": "Lama Su",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Kamino"
+            }
+          },
+          {
+            "name": "Taun We",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "black",
+            "gender": "female",
+            "homeworld": {
+              "name": "Kamino"
+            }
+          },
+          {
+            "name": "Jocasta Nu",
+            "hairColor": "white",
+            "skinColor": "fair",
+            "eyeColor": "blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "Coruscant"
+            }
+          },
+          {
+            "name": "R4-P17",
+            "hairColor": "none",
+            "skinColor": "silver, red",
+            "eyeColor": "red, blue",
+            "gender": "female",
+            "homeworld": {
+              "name": "unknown"
+            }
+          },
+          {
+            "name": "Wat Tambor",
+            "hairColor": "none",
+            "skinColor": "green, grey",
+            "eyeColor": "unknown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Skako"
+            }
+          },
+          {
+            "name": "San Hill",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "gold",
+            "gender": "male",
+            "homeworld": {
+              "name": "Muunilinst"
+            }
+          },
+          {
+            "name": "Shaak Ti",
+            "hairColor": "none",
+            "skinColor": "red, blue, white",
+            "eyeColor": "black",
+            "gender": "female",
+            "homeworld": {
+              "name": "Shili"
+            }
+          },
+          {
+            "name": "Grievous",
+            "hairColor": "none",
+            "skinColor": "brown, white",
+            "eyeColor": "green, yellow",
+            "gender": "male",
+            "homeworld": {
+              "name": "Kalee"
+            }
+          },
+          {
+            "name": "Tarfful",
+            "hairColor": "brown",
+            "skinColor": "brown",
+            "eyeColor": "blue",
+            "gender": "male",
+            "homeworld": {
+              "name": "Kashyyyk"
+            }
+          },
+          {
+            "name": "Raymus Antilles",
+            "hairColor": "brown",
+            "skinColor": "light",
+            "eyeColor": "brown",
+            "gender": "male",
+            "homeworld": {
+              "name": "Alderaan"
+            }
+          },
+          {
+            "name": "Sly Moore",
+            "hairColor": "none",
+            "skinColor": "pale",
+            "eyeColor": "white",
+            "gender": "female",
+            "homeworld": {
+              "name": "Umbara"
+            }
+          },
+          {
+            "name": "Tion Medon",
+            "hairColor": "none",
+            "skinColor": "grey",
+            "eyeColor": "black",
+            "gender": "male",
+            "homeworld": {
+              "name": "Utapau"
+            }
+          }
+        ]
+      }
+    }
+  }
